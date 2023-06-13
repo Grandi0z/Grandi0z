@@ -4,13 +4,15 @@
 - 👯 I’m a software developer with a lot of experience in pair programming and remoting programming 
 - 💬 My motivation is to make technology easier for everyone
 - Here are some stats about my activities on Github :
+ > 
+ <div align="center">
+     <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grandi0z&theme=merko&show_icons=true&layout=compact&langs_count=8&card_width=350"/>           &nbsp;
+     <img width="450" src="https://github-readme-stats.vercel.app/api?username=Grandi0z&theme=merko&show_icons=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
+  <div>
  
-  > ![Grandi0z's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grandi0z&theme=merko&show_icons=true&card_width=350)
-  > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grandi0z&theme=merko&show_icons=true&layout=compact&langs_count=8&card_width=350)](https://github.com/Grandi0z/github-readme-stats)
-- Some Repos :
-  > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grandi0z&repo=To_Do_List_rep&theme=merko&show_icons=true)](https://github.com/Grandi0z/github-readme-stats)
-- Other stats :
- > > [![Grandi0z's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grandi0z&theme=merko&show_icons=true)](https://github.com/Grandi0z/github-readme-stats)
-  
+  <div align="center">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/wakatime?username=Grandi0z&theme=merko&show_icons=true"/> &nbsp;
+    <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Grandi0z&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
+  <div>
  
   
